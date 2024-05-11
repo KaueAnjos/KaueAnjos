@@ -11,8 +11,8 @@
 
 <details align="center">
 <summary><samp style="font-family: Arial;">My stats</samp></summary><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=KaueAnjos&show_icons=true&locale=en&bg_color=292929ff&title_color=ff0000&icon_color=9b0318ff&text_color=fff&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaueAnjos&show_icons=true&locale=en&layout=compact&bg_color=292929ff&title_color=ff0000&text_color=fff&hide_border=true">
+    <img height=160em src="https://github-readme-stats.vercel.app/api?username=KaueAnjos&show_icons=true&locale=en&bg_color=292929ff&title_color=ff0000&icon_color=9b0318ff&text_color=fff&hide_border=true"/>
+    <img height=160em src="https://github-readme-stats.vercel.app/api/top-langs?username=KaueAnjos&show_icons=true&locale=en&layout=compact&bg_color=292929ff&title_color=ff0000&text_color=fff&hide_border=true">
 </details>
 <br>
 <details align="center">
