@@ -3,7 +3,7 @@
 
   <a href="mailto:kaueramada06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.instagram.com/KaueRamada"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="linkedin.com/in/kauê-ramada-1692872a4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/kauê-ramada-1692872a4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 <div align="center">
     I'm a web developer and designer, passionate about everything involving technology, visuals, images, and designs. Come join me on my journey of studying and learning about new languages, techniques, and tools!
